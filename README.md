@@ -1,0 +1,1 @@
+This project leverages transfer learning to build an image classification model that distinguishes between two individuals: Will Ferrell and Chad Smith. Using a pre-trained VGG16 model from Keras, the model is fine-tuned to classify images into these two categories. The project showcases how transfer learning can be applied to solve image classification tasks with limited data.
